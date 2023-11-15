@@ -40,7 +40,7 @@ Create personalized itineraries with our trip planning feature. Save your favori
 1. **Installation:**
    - Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/tourist-explorer.git
+   git clone https://github.com/Afriwander.git
    ```
 4. **Contributing:**
    - We welcome contributions! If you'd like to contribute to Tourist Explorer, please follow our [contribution guidelines](CONTRIBUTING.md).

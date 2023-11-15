@@ -2,6 +2,11 @@
 
 Welcome to AfriWander, your go-to platform for discovering diverse and vibrant destinations across Africa. Whether you're an avid traveler or someone planning their first adventure, Tourist Explorer provides an immersive experience to explore the rich cultural, historical, and natural wonders of Africa.
 
+The inspiration behind AfriWander is rooted in the belief that Africa's rich tapestry of cultures, histories, and natural wonders deserves a spotlight. We aim to break stereotypes, showcase the lesser-known gems, and provide a platform for people worldwide to appreciate the continent's unparalleled beauty.
+
+Motivation
+Our motivation stems from the desire to bridge the gap between potential travelers and the extraordinary experiences awaiting them in Africa. The lack of comprehensive and accessible information often hinders travel plans. AfriWander seeks to address this gap, empowering users with the knowledge they need to make informed decisions about their travel destinations.
+
 ## Features
 
 ### 1. Explore Destinations

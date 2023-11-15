@@ -56,8 +56,8 @@ Create personalized itineraries with our trip planning feature. Save your favori
 
 ## Contributors
 
-- Jerry Seazia [@john_doe](https://github.com/Jerryseazia)
-- Jane Smith [@jane_smith](https://github.com/Reytang)
+- Jerry Seazia [@Jerry Seazia](https://github.com/Jerryseazia)
+- Reymond Tang [@Reymond Tang](https://github.com/Reytang)
 
 ## License
 

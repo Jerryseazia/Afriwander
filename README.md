@@ -55,9 +55,10 @@ Create personalized itineraries with our trip planning feature. Save your favori
 
 ## Tech Stack
 
-- React.js for the frontend
-- Node.js and Express for the backend
-- MongoDB for the database
+- HMTL CSS 
+- Boostrap
+- Vue JS
+- Js
 
 ## Contributors
 
